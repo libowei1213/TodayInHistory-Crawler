@@ -1,0 +1,4 @@
+.gitattributes
+/__pycache__
+.project
+.pydevproject
